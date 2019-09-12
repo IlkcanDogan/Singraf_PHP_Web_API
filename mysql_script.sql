@@ -3,7 +3,6 @@
 -- https://www.phpmyadmin.net/
 --
 -- Anamakine: localhost:3306
--- Üretim Zamanı: 07 Ağu 2019, 22:17:08
 -- Sunucu sürümü: 10.2.26-MariaDB
 -- PHP Sürümü: 7.2.7
 
